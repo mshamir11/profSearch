@@ -7,10 +7,22 @@
 
 ProfSearch is a search engine used to search for information aboutthe relevant professor’s research area, basic summary and alsothe rank of professor on the basis of proficiency in their field. Toovercome the above problem we have designed our project thatsearches professors when the user enters the research area andprofessor name. Our project can be helpful to the researchers andthe students who need information about the professors. Usingour App they can search the professor and get a summary of theprofessor.
 
-
+Project Report : [Link](./data_science_project.pdf)
+Project Slides : [Link](./slides.pdf)
 
 ## Contents :books: <!-- omit in toc -->
-
+- [Instructions to run the code 👨‍🏫](#instructions-to-run-the-code-)
+  - [Run the server and client 🏃](#run-the-server-and-client-)
+- [Demonstration 🚿](#demonstration-)
+- [Features ✅](#features-)
+- [Database Schema 🥁](#database-schema-)
+- [Data Collection using Scholarly Library :man_teacher:](#data-collection-using-scholarly-library-man_teacher)
+- [Database Querying for Different Search Methods 🔎](#database-querying-for-different-search-methods-)
+- [Sample Result Page 🙂](#sample-result-page-)
+- [Ranking Methodology 🏁](#ranking-methodology-)
+- [Website Summarization 📖](#website-summarization-)
+- [Similar Research Interest Using Pretrained BERT word Embedding 📖](#similar-research-interest-using-pretrained-bert-word-embedding-)
+- [References 📑](#references-)
 
 ### Instructions to run the code 👨‍🏫
 
@@ -59,12 +71,12 @@ ProfSearch is a search engine used to search for information aboutthe relevant p
 
 ### Features ✅
 
-✅ Search by Research Insterest
-✅ Search by Professor Name
-✅ Search By University Name
-✅ Ranking based on H-index, total citation and Citation with last five years
-✅ Home Page Summarization of Each Professor
-✅ Similar Research Instersts
+1. ✅ Search by Research Insterest
+2. ✅ Search by Professor Name
+3. ✅ Search By University Name
+4. ✅ Ranking based on H-index, total citation and Citation with last five years
+5. ✅ Home Page Summarization of Each Professor
+6. ✅ Similar Research Instersts
 
 ### Database Schema 🥁
 MongoDB database is used. Below given is the schema of the collections used.
