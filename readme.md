@@ -14,7 +14,7 @@ Project Slides : [Link](./slides.pdf)
 - [Instructions to run the code 👨‍🏫](#instructions-to-run-the-code-)
   - [Run the server and client 🏃](#run-the-server-and-client-)
 - [Demonstration 🚿](#demonstration-)
-- [Features ✅](#features-)
+- [Features ☑️](#features-️)
 - [Database Schema 🥁](#database-schema-)
 - [Data Collection using Scholarly Library :man_teacher:](#data-collection-using-scholarly-library-man_teacher)
 - [Database Querying for Different Search Methods 🔎](#database-querying-for-different-search-methods-)
@@ -69,14 +69,13 @@ Project Slides : [Link](./slides.pdf)
 ![demo](./images/demo.gif)
 
 
-### Features ✅
-
-1. ✅ Search by Research Insterest
-2. ✅ Search by Professor Name
-3. ✅ Search By University Name
-4. ✅ Ranking based on H-index, total citation and Citation with last five years
-5. ✅ Home Page Summarization of Each Professor
-6. ✅ Similar Research Instersts
+### Features ☑️
+1. ☑️ Search by Research Insterest
+2. ☑️ Search by Professor Name
+3. ☑️ Search By University Name
+4. ☑️ Ranking based on H-index, total citation and Citation with last five years
+5. ☑️ Home Page Summarization of Each Professor
+6. ☑️ Similar Research Instersts
 
 ### Database Schema 🥁
 MongoDB database is used. Below given is the schema of the collections used.
