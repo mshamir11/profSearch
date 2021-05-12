@@ -1,0 +1,118 @@
+.Card {
+  width: 300px;
+  height: 450px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 1px 5px 1px black;
+  margin: 15px;
+}
+
+.image-container img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  padding: 5px;
+  transform: translate(80px, 35px);
+}
+
+.middle-container {
+  margin-top: -80px;
+  height: 200px;
+  background: white;
+}
+
+.middle-container h1,
+p,
+h3,
+h4 {
+  text-align: center;
+}
+
+.lower-container {
+  background: white;
+  border-color: black;
+  margin-top: -40px;
+}
+
+.t01 {
+  width: 100%;
+  background-color: #f1f1c1;
+}
+
+.table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 0;
+}
+
+.table th {
+  padding: 15px;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table td {
+  padding: 15px;
+  text-align: center;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  /* display: inline-block; */
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-decoration: none;
+
+  color: #333;
+  background-color: #fff;
+  border-color: #ccc;
+}
+
+table.inner-border {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table.inner-border > thead > tr > th,
+table.inner-border > thead > tr > td,
+table.inner-border > tbody > tr > th,
+table.inner-border > tbody > tr > td,
+table.inner-border > tfoot > tr > th,
+table.inner-border > tfoot > tr > td {
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+table.inner-border > thead > tr > :last-child,
+table.inner-border > tbody > tr > :last-child,
+table.inner-border > tfoot > tr > :last-child {
+  border-right: 0;
+}
+
+table.inner-border > :last-child > tr:last-child > td,
+table.inner-border > :last-child > tr:last-child > th {
+  border-bottom: 0;
+}

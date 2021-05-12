@@ -1,0 +1,27 @@
+[
+  {
+
+    "_id": "x8qCMhcAAAAJ",
+    "name":"A Min Tjoa",
+    "affliation":"TU Wien",
+    "homepage":"http://www.ifs.tuwien.ac.at/tjoa",
+    "total_citation":5738,
+    "research_interests":["Databases", "Security", "Semantic Web", "Risk Analysis", "Personal Information Management"],
+    "google_scholar_page":"https://scholar.google.com/citations?user=x8qCMhcAAAAJ&hl=en",
+    "profile_pic":"https://scholar.googleusercontent.com/citations?view_op=view_photo&user=x8qCMhcAAAAJ&citpid=2"
+    
+    },
+    {
+
+      "_id": "WjHjbrwAAAAJ",
+      "name":"A. Aldo Faisal",
+      "affliation":"Imperial College London",
+      "homepage":"https://www.imperial.ac.uk/people/a.faisal",
+      "total_citation":5265,
+      "research_interests":["AI for Healthcare", "Reinforcement Learning", "Neurotechnology", "Computational Neuroscience", "Behavior Analytics"],
+      "google_scholar_page":"https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en",
+      "profile_pic":"https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WjHjbrwAAAAJ&citpid=5"
+      
+      }
+]
+
