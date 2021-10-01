@@ -75,7 +75,7 @@ Project Slides : [Link](./slides.pdf)
 3. ☑️ Search By University Name
 4. ☑️ Ranking based on H-index, total citation and Citation with last five years
 5. ☑️ Home Page Summarization of Each Professor
-6. ☑️ Similar Research Instersts
+6. ☑️ Similar Research Interests
 
 ### Database Schema 🥁
 MongoDB database is used. Below given is the schema of the collections used.
